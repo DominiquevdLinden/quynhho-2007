@@ -5,7 +5,7 @@
 - 👩‍💻 Currently a student at Codaisseur (Feb 2021 - Apr 2021)
 - :mortar_board: A fresh graduate in International Business Administration (Bachelor's Degree of Science) at :school: Radboud University Nijmegen
 - :mag: I am looking for a Full-Stack Developer position
-- 📍 Nijmegen, Netherlands
+- 📍 Arnhem, Netherlands
 - :email: Reach me here: hovuthaoquynh@gmail.com
 - You can find me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/quynh-ho-420188171/) 
 
